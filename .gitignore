@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+runtime/
+reports/live_*.json
+reports/scoring_*.csv

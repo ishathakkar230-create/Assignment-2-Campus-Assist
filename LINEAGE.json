@@ -1,0 +1,12 @@
+{
+  "note": "Assignment 2 extends the identical shared code; settings.py changes VERSION to expose reviewer controls.",
+  "shared_sha256": {
+    "core.py": "712fa615972e06758407da06fdd1fe52a1193eb161d9b4466b8d4c56b7d4ee1d",
+    "agent.py": "4509928857cfcad7b1b60d4f0c6e07127669a441da003828d444171fa8d37cb4",
+    "app.py": "ee1d9abb46569ab6b0baff8f77943c0efdf0bddc8d81a1c088937245d0618851",
+    "data/policy.json": "55626d22ae3fce0303166c3d2d77a59ebf94568877029a92f46ae8440c71f9b9",
+    "evaluate.py": "e4e678b39c878449332371b8afd3c8acb922ff66675afb620c48c6b888137578",
+    "compare_results.py": "cf571de9a09349d334648e482d895a2da0fea647fd17cca3bf19ad4c4e151f7e",
+    "tests/test_system.py": "bdcb6c80290ef4755a7067ef6791ec8f13f90c7b058c0b4c77f8eecad67c9424"
+  }
+}
